@@ -33,7 +33,6 @@
 - 🛡️ **Python-Safe**: Never deletes or modifies Python files
 - 🛡️ **System-Safe**: Doesn't touch critical Windows settings
 - 💥 **Persistent Shells**: PowerShell and CMD keep state between commands
-- 📤 **Simple Upload**: Just type `/upload` and send the file
 - 🔐 **AES-256 encryption** for communication
 - 🎯 **30 safe persistence methods**
 
@@ -895,7 +894,6 @@ Usually 1–2 seconds per command.
 - 🛡️ **Python-Safe**: هیچ فایل پایتونی رو حذف یا تغییر نمی‌ده
 - 🛡️ **System-Safe**: تنظیمات حیاتی ویندوز رو دستکاری نمی‌کنه
 - 💥 **Persistent Shells**: PowerShell و CMD بین دستورات پایدارن
-- 📤 **Simple Upload**: فقط `/upload` بزن و فایل بفرست
 - 🔐 **AES-256 رمزنگاری** ارتباط
 - 🎯 **30 روش ماندگاری امن**
 
