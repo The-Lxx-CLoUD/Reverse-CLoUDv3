@@ -10,7 +10,7 @@
   ###
 ## ⚠️ Description's ⤵️
 ### [1️⃣ readme Persian](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/tree/main#-%D9%85%D8%B9%D8%B1%D9%81%DB%8C)
-### [2️⃣ readme English ](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/edit/main/README.md#--reverse-cloud-v3---merged-edition)
+### [2️⃣ readme English ](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/tree/main#-%D9%85%D8%B9%D8%B1%D9%81%DB%8C)
 
 ##
 
