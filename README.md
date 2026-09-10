@@ -169,10 +169,10 @@ Save `RC-v3.py` (e.g., C:\Users\mmd\Desktop\s2.py`).
 Before running, edit these lines in the file:
 
 ```python
-# Line 35 — Telegram bot token
+# Line 85 — Telegram bot token
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 
-# Line 36 — Admin numeric ID
+# Line 86 — Admin numeric ID
 ADMIN_ID = "YOUR_TELEGRAM_ID_HERE"
 ```
 
@@ -1029,10 +1029,10 @@ python -c "import mss; print('mss OK')"
 قبل از اجرا، این خطوط رو توی فایل ویرایش کن:
 
 ```python
-# خط ۳۵ — توکن ربات تلگرام
+# خط 85 — توکن ربات تلگرام
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 
-# خط ۳۶ — آی‌دی عددی ادمین
+# خط 86 — آی‌دی عددی ادمین
 ADMIN_ID = "YOUR_TELEGRAM_ID_HERE"
 ```
 
