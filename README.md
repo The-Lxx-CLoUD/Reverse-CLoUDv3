@@ -8,9 +8,12 @@
   <img src="file/zzz.png" width="1080">
 
   ###
-## ⚠️ Description's ⤵️
+## ⚠️ Shortcut's ⤵️
 ### [1️⃣ readme Persian](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/tree/main#-%D9%85%D8%B9%D8%B1%D9%81%DB%8C)
 ### [2️⃣ readme English ](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/tree/main#-%D9%85%D8%B9%D8%B1%D9%81%DB%8C)
+###
+### [💡Persian Help Commands](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/tree/main#-%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D8%AA) 
+### [💡English Help Commands](https://github.com/The-Lxx-CLoUD/Reverse-CLoUDv3/tree/main#-full-command-list)
 
 ##
 
